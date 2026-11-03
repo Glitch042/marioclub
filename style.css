@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+div.main-content {
+    text-align: center;
+    background-color: red;
+    padding: 35px;
+}
+div.main-content h1 {
+    color: white;
+    border: white solid 3px ;
+    display:inline;
+    padding: 10px;
+    border-radius: 25px;
+}
+div.main-heading {
+    background-color: darkgray;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+div.main-heading a {
+    color: white;
+    margin: 100px;
+}
+div.main-word h2 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+img.banner {
+    border-bottom: red solid 10px;
+}
+div.main-word p {
+    margin-bottom: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 5px;
+    font-size: 25px;
+    text-align: justify;
+}
+footer h3 {
+    text-align: center;
+    color: white;
+    background-color:dimgray;
+    padding: 10px; 
+}
+div.main-gallery {
+    text-align: center;
+    background-color: darkgray;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+div.main-gallery h2 {
+    color: red;
+}
+div.main-gallery p {
+    font-size: 20px;
+    text-align: justify;
+}
+div.main-image h2 {
+    text-align: center;
+    color: red;
+    margin: 20px;
+    font-size: 40px;
+}
+div img {
+    text-align: center;
+    margin: 4px;
+    border-bottom:  red solid 5px;
+}
+div {
+    text-align: center;
+}
+form {
+    margin: 40px;
+    background-color: darkgray;
+    display: inline-block;
+    padding-bottom: 100px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    position: fixed;
+    top: 150px;
+}
+button {
+    background-color: red;
+    color: white;
+    padding: 8px;
+}
